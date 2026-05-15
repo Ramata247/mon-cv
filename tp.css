@@ -1,0 +1,22 @@
+body{
+    background-color: rgba(215, 247, 250, 0.475);
+}
+.bloc-section{
+    background-color: #f9f9f9;
+    border-left: 4px solid #2c3e50;
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    font-size:10px;
+
+}
+legend {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 340px; /* Optionnel : ajoute un peu d'espace autour du texte sur la ligne */
+    align-items: center;
+}
+header{
+    font-size:medium;
+}
