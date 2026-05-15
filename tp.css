@@ -14,7 +14,7 @@ body{
 legend {
     margin-left: auto;
     margin-right: auto;
-    padding: 0 340px; /* Optionnel : ajoute un peu d'espace autour du texte sur la ligne */
+    padding: 0 200px; /* Optionnel : ajoute un peu d'espace autour du texte sur la ligne */
     align-items: center;
 }
 header{
